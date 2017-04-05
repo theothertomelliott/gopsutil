@@ -3,7 +3,7 @@ package host
 import (
 	"encoding/json"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 )
 
 var (

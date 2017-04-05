@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 )
 
 // sys/resource.h

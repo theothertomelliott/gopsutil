@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 )
 
 // VirtualMemory for Solaris is a minimal implementation which only returns

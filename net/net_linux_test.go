@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 	"github.com/stretchr/testify/assert"
 )
 

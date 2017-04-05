@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 )
 
 func TestAddrString(t *testing.T) {

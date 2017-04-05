@@ -5,7 +5,7 @@ package net
 import (
 	"strings"
 
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 )
 
 // Return a list of network connections opened.

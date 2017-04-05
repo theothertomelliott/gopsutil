@@ -3,7 +3,7 @@
 package load
 
 import (
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/theothertomelliott/gopsutil-nocgo/internal/common"
 )
 
 func Avg() (*AvgStat, error) {
